@@ -1,0 +1,10 @@
+{
+  "json.schemas": [],
+  "workbench.colorCustomizations": {},
+  "workbench.colorTheme": "Tokyo Night Storm",
+  "workbench.preferredDarkColorTheme": "Tokyo Night Storm",
+  "workbench.preferredHighContrastColorTheme": "Tokyo Night Storm",
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "vim.smartRelativeLine": false,
+  "editor.lineNumbers": "relative"
+}
